@@ -1,0 +1,6 @@
+fun main(){
+  saludo()
+}
+fun saludo(){
+  print("Hola Gentita")
+}
